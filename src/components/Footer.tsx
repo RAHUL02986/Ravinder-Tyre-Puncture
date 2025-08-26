@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
 import { MapPin, Phone, Mail, Clock, Wrench, Facebook, Instagram, Twitter } from 'lucide-react';
 
@@ -94,8 +93,8 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-blue-400 mt-0.5" />
                 <div className="text-gray-400">
-                  <p>Shop No. 15, Main Bazaar Road</p>
-                  <p>McLeod Ganj, Dharamshala</p>
+                  <p>Shop No. 15, Sheela Chownk</p>
+                  <p>Sidhpur, Dharamshala</p>
                   <p>Himachal Pradesh - 176219</p>
                 </div>
               </div>
@@ -103,8 +102,8 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-blue-400" />
                 <div className="text-gray-400">
-                  <a href="tel:+91-9876543210" className="hover:text-white transition-colors">
-                    +91-9876543210
+                  <a href="tel: +91-7807664271" className="hover:text-white transition-colors">
+                    +91-7807664271
                   </a>
                 </div>
               </div>
@@ -112,7 +111,7 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-blue-400" />
                 <div className="text-gray-400">
-                  <a href="mailto:info@himalayantyres.com" className="hover:text-white transition-colors">
+                  <a href="mailto:ravinder@gmail.com" className="hover:text-white transition-colors">
                     info@himalayantyres.com
                   </a>
                 </div>
@@ -146,7 +145,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Himalayan Tyres. All rights reserved.
+            © 2025 Himalayan Tyres. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 flex space-x-6 text-sm">
             <a href="#" className="text-gray-400 hover:text-white transition-colors">
